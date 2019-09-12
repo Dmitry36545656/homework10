@@ -1,0 +1,18 @@
+package lesson7;
+
+public class main {
+    public static void main(String[] args) {
+        int x = 75;
+
+        int y = 0x4b;
+
+        int z = 0113;
+
+        int a = 0b1001011;
+
+        System.out.println(x);
+        System.out.println(y);
+        System.out.println(z);
+        System.out.println(a);
+    }
+}
